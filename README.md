@@ -1,3 +1,3 @@
-This is my First Git repository
+This is my First Git repository.
 <br>
-Itz me Sudhanshu Kumar Shrivastav
+Itz me Sudhanshu Kumar Shrivastav.
